@@ -14,3 +14,24 @@ stations become increasingly important. This project aims to explore
 the current state of EV charging infrastructure in Turkey and examine 
 how well it supports the growth of electric vehicles.
 
+## Data Sources
+The project will use publicly available datasets from multiple sources such as:
+
+- Open Charge Map (charging station data)
+- IEA (electric vehicle statistics)
+- TÜİK (transportation and population statistics)
+
+## Planned Analysis
+The analysis will include the following steps:
+
+- Data collection and preprocessing
+- Exploratory Data Analysis (EDA)
+- Visualization of charging station distribution
+- Comparison between EV growth and charging infrastructure growth
+- Hypothesis testing on infrastructure readiness
+
+## Tools
+- Python
+- Pandas
+- Matplotlib / Seaborn
+- Scikit-learn
