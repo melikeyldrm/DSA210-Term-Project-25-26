@@ -48,8 +48,10 @@ As electric vehicle adoption continues to increase, the availability and distrib
 - **Statsmodels** — hypothesis testing
  
 ---
-## Notes on Data Limitations
+## Notes on Data Limitations & AI Usage
  
 - The Donanım Haber charging station dataset (March 2026) aggregates figures from operator websites and may not capture every private or semi-public station.
 - The sarj.dev API (used in early exploration) returned 8,895 records without explicit timestamps; it was replaced by the Donanım Haber dataset for greater reliability and recency.
 - Provincial vehicle data and population are from 2024; the charging station snapshot is from March 2026. This small temporal gap is acknowledged as a limitation.
+
+- AI tools such as ChatGPT and Claude were used for guidance in code development, debugging, and refining analysis explanations throughout the project.
